@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "hl7eventhub": "Endpoint=sb://xxxxxx.servicebus.windows.net/;SharedAccessKeyName=ehlistener;SharedAccessKey=xxxxxx=;EntityPath=hl7msgseh",
+    "hl7landingconnstring": "DefaultEndpointsProtocol=https;AccountName=xxxxx;AccountKey=xxxxxxxx==;EndpointSuffix=core.windows.net"
+  }
+}
